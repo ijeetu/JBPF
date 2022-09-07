@@ -146,7 +146,7 @@
     var $typed = $("#typed");
     if ($typed.length) {
       var typed = new Typed("#typed", {
-        strings: ["motion graphic designer", "filmmaker", "creative developer", "UI/UX designer & developer"],
+        strings: ["motion graphic designer", "filmmaker", "creative developer", "UI/UX developer"],
         loop: true,
         typeSpeed: 70
       });
